@@ -3,6 +3,6 @@ class student
 {
 public static void main(String args[])
 {
-	System.out.println("hai mam");
+	System.out.println("Hello world");
 }
 }
